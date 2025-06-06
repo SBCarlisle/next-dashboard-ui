@@ -35,3 +35,32 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files (Windows specific)
+ehthumbs.db
+Thumbs.db
+.Spotlight-V100
+.Trashes
+._*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+/coverage
+
+# Temporary folders
+tmp/
+temp/
+
+# Logs (general)
+*.log
